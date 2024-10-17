@@ -45,7 +45,8 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "@babel/plugin-transform-private-property-in-object": "^7.25.8"
+    "@babel/plugin-transform-private-property-in-object": "^7.25.8",
+    "gh-pages": "^6.2.0"
   },
   "description": "Aplikasi ini adalah platform untuk menampilkan film menggunakan API dari The Movie Database (TMDb). Pengguna dapat login untuk menyimpan film favorit mereka.",
   "main": "babel.config.js",
