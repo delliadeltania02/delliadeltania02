@@ -4,7 +4,7 @@
 Aplikasi ini adalah platform untuk menampilkan film menggunakan API dari The Movie Database (TMDb). Pengguna dapat login untuk menyimpan film favorit mereka.
 
 ## Struktur Proyek
-- **index.html/**: file statis.
+- **public**: berisi file statis seperti index.html.
 - **src/**: Berisi semua kode sumber aplikasi.
   - **assets/**: Berisi file gambar, ikon, dan aset lainnya yang digunakan dalam aplikasi.
   - **components/**: Berisi komponen React untuk login user/guest, halaman utama, dan profil.
